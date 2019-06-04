@@ -1,5 +1,5 @@
 def my_hash
-  parker = {"name" => "parkey", "job" => "sleeping"
+  parker = {"name" => "parkey", "job" => "sleeping"}
 end
 
 
